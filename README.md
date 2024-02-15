@@ -5,4 +5,4 @@
   -veriler json-server kullanılarak veritabanına kaydedilir.
   -Veri tabanı istekleri için axios kütüphanesinden yararlanılmıştır.
 
-![](/public/screen.gifscreen.gif)
+![](/public/screen.gif)
